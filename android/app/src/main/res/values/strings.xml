@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">hospitalapp</string>
+    <string name="title_activity_main">hospitalapp</string>
+    <string name="package_name">ionic.hospitalapp</string>
+    <string name="custom_url_scheme">ionic.hospitalapp</string>
+</resources>
